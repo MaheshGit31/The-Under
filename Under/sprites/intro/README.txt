@@ -1,0 +1,3 @@
+put your fall animation frames here as fall_01.png, fall_02.png, fall_03.png ...
+use 320x180 per frame (the game scales them 2x). they play at 8 frames per second
+if no frames are found the game plays a placeholder fall instead
